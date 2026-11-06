@@ -2,3 +2,5 @@
 node_modules
 .tmp
 npm-debug.log
+02_04_b.ipynb
+.venv/
